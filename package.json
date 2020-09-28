@@ -8,8 +8,8 @@
   },
   "author": "",
   "license": "ISC"
+  "bin": {
+    "resume-me": "./index.js"
+  },
 }
 
-"bin": {
-  "resume-me": "./index.js"
-},
