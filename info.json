@@ -1,0 +1,19 @@
+{
+  "name": "Mac May",
+  "website": "something.com",
+  "linkedin": "https://www.linkedin.com/in/tim-may-041b1b7/",
+  "github": "MakerMacAttack",
+  "email": "tmcpbmay@gmail.com",
+  "resume": "pending",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Node",
+      "Python"
+  ],
+  "otherSkills": [
+      "Massage",
+      "Karaoke",
+      "Babysitting"
+  ]
+}
